@@ -15,7 +15,4 @@ like_answer = raw_input()
 #do an if statement
 if like_answer in ['y', 'Y', 'yes', 'Yes', 'YES']:
 	print ( "glad you liked it" )
-else:
-	print ( "sorry you didn't like it" )
-
 
